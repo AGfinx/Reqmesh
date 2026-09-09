@@ -168,7 +168,6 @@ const styles = StyleSheet.create({
   panelLabel: { color: '#7FB3D5', fontSize: 11, fontWeight: '800', letterSpacing: 1 },
   safetyTitle: { color: '#FFFFFF', fontSize: 22, fontWeight: '800', lineHeight: 28, marginTop: 10 },
   bodyText: { color: '#52616B', fontSize: 15, lineHeight: 22, marginTop: 8 },
-  safetyPanel: { backgroundColor: '#0B2D4D', borderRadius: 18, marginBottom: 24, padding: 20 },
   sectionHeader: { alignItems: 'baseline', flexDirection: 'row', justifyContent: 'space-between', marginBottom: 10 },
   sectionTitle: { color: '#14212B', fontSize: 19, fontWeight: '800', marginBottom: 12 },
   sectionHint: { color: '#52616B', fontSize: 12 },
@@ -201,5 +200,4 @@ const styles = StyleSheet.create({
   tab: { alignItems: 'center', minHeight: 44, justifyContent: 'center', minWidth: 64 },
   tabLabel: { color: '#52616B', fontSize: 12, fontWeight: '700' },
   tabLabelActive: { color: '#1455A0' },
-  },
 });
